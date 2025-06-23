@@ -1,2 +1,2 @@
-# Programmazione_a_Oggetti
+# Programmazione a Oggetti
  Materiale per il corso di Programmazione a Oggetti del PoliTO. 
